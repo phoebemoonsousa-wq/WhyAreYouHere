@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.7",
+	"EngineAssociation": "{C5C1539E-4664-C278-792F-98A2ECCB9912}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,6 +13,18 @@
 		},
 		{
 			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenXR",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenXREyeTracker",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenXRHandTracking",
 			"Enabled": true
 		}
 	]
